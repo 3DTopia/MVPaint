@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://mvpaint.github.io/">Project Page</a> •
   <a href="https://arxiv.org">Arxiv</a> •
-  <a href="#-citation">Citation
+  <a href="#citation">Citation
 </p>
 
 </div>
