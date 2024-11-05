@@ -41,11 +41,14 @@
 If you find our code or paper helps, please consider citing:
 
 ```bibtex
-@article{cheng2024mvpaint,
-        title={MVPaint: Generating Triangle Meshes with Decoder-Only Transformers},
-        author={Cheng, Wei and Mu, Juncheng and Zeng, Xianfang and Chen, Xin and Pang, Anqi and Zhang, Chi and Wang, Zhibin and Fu, Bin and Yu, Gang and Liu, Ziwei and Pan, Liang},
-        journal={arXiv preprint},
-        year={2024}
+@misc{cheng2024mvpaint,
+    title={MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D}, 
+    author={Wei Cheng and Juncheng Mu and Xianfang Zeng and Xin Chen and Anqi Pang and Chi Zhang and Zhibin Wang and Bin Fu and Gang Yu and Ziwei Liu and Liang Pan},
+    year={2024},
+    eprint={2411.02336},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2411.02336}, 
 }
 ```
 
