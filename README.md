@@ -41,14 +41,11 @@
 If you find our code or paper helps, please consider citing:
 
 ```bibtex
-@misc{cheng2024mvpaint,
-    title={MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D}, 
-    author={Wei Cheng and Juncheng Mu and Xianfang Zeng and Xin Chen and Anqi Pang and Chi Zhang and Zhibin Wang and Bin Fu and Gang Yu and Ziwei Liu and Liang Pan},
-    year={2024},
-    eprint={2411.02336},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2411.02336}, 
+@article{cheng2024mvpaint,
+  title={MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D}, 
+  author={Wei Cheng and Juncheng Mu and Xianfang Zeng and Xin Chen and Anqi Pang and Chi Zhang and Zhibin Wang and Bin Fu and Gang Yu and Ziwei Liu and Liang Pan},
+  journal={arXiv preprint arxiv:2411.02336},
+  year={2024}
 }
 ```
 
