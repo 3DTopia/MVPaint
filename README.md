@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://mvpaint.github.io/">Project Page</a> •
-  <a href="https://arxiv.org">Arxiv</a> •
+  <a href="https://arxiv.org/abs/2411.02336">Arxiv</a> •
   <a href="#citation">Citation
 </p>
 
