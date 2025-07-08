@@ -18,6 +18,7 @@
 <p><b>MVPaint</b> generates <b>multi-view consistent</b> textures with <b>arbitrary UV unwrapping</b> and <b>high generation versatility</b>.</p>
 </div>
 
+
 <details>
 <summary><b>Introducing MVPaint</b></summary>
     <br></br>
