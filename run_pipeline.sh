@@ -6,7 +6,7 @@ export HF_ENDPOINT=https://hf-mirror.com
 export OPENCV_IO_ENABLE_OPENEXR=1
 
 CODE_ROOT=$(pwd)
-CKPT_PATH=${CODE_ROOT}/stage1_low/ckpt/mvdream-controlnet-sd21.ckpt
+CKPT_PATH=${CODE_ROOT}/stage_1_low_res/ckpt/mvdream-controlnet-sd21.ckpt
 SAMPLE_DIR=${CODE_ROOT}/samples
 prompt_file=${SAMPLE_DIR}/annot.json
 OUT_ROOT=${CODE_ROOT}/sample_results
