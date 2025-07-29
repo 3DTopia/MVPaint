@@ -34,8 +34,26 @@
 
 ## News
 
+- [2025/07/29] Upload a simplified version of the test scripts. An enhanced version will be coming soon...
 - [2024/10/31] Upload paper and init project.
 
+
+## Installation
+
+``` bash
+sh env_mvdream.sh  ### environment for preprocessing, stage_1_low_res and final visualization
+sh env_syncmvd.sh  ### environment for stage_1_high_res and stage_2_3
+```
+
+## Demo
+The script needs to download multiple pretrained models from **Hugging Face**, which may take time to complete during the first run.
+We provide a sample mesh under the `./samples` folder. You can use it to quickly test the script and verify its functionality.
+
+``` bash
+### please modify paths in run_pipeline.sh, they are:
+### CODE_ROOT, CKPT_PATH, SAMPLE_DIR, prompt_file, OUT_ROOT
+sh run_pipeline.sh 
+```
 
 ## Citation
 
