@@ -1,0 +1,13 @@
+opencv-python
+imageio
+imageio-ffmpeg
+omegaconf
+einops
+open-clip-torch==2.7.0
+gradio>=3.13.2
+pytorch-lightning==1.5.0
+scipy
+openexr
+trimesh
+transformers
+ninja
