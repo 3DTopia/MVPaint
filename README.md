@@ -34,7 +34,7 @@
 
 ## News
 
-- [2025/07/29] Upload a simplified version of the test scripts. An enhanced version will be coming soon...
+- [2025/07/29] Release a preliminary version for testing; a better-organized version will be published as soon as possible in a few weeks. 
 - [2024/10/31] Upload paper and init project.
 
 
@@ -51,6 +51,8 @@ sh env_syncmvd.sh
 ## Demo
 The script needs to download multiple pretrained models from **Hugging Face**, which may take time to complete during the first run.
 
+Our pretrained model could be found <a href="https://www.dropbox.com/scl/fo/c7w4aldz60v22rvu911p1/AP1DbOdOhKmJfy2tVM_XKYc?rlkey=as0rok9eizfdjuxr4mamz1m0n&st=9nqhcmdm">here</a>.
+
 We provide a sample mesh under the `./samples` folder. You can use it to quickly test the script and verify its functionality.
 
 ``` bash
@@ -64,11 +66,12 @@ sh run_pipeline.sh
 If you find our code or paper helps, please consider citing:
 
 ```bibtex
-@article{cheng2024mvpaint,
-  title={MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D}, 
-  author={Wei Cheng and Juncheng Mu and Xianfang Zeng and Xin Chen and Anqi Pang and Chi Zhang and Zhibin Wang and Bin Fu and Gang Yu and Ziwei Liu and Liang Pan},
-  journal={arXiv preprint arxiv:2411.02336},
-  year={2024}
+@inproceedings{cheng2025mvpaint,
+  title={Mvpaint: Synchronized multi-view diffusion for painting anything 3d},
+  author={Cheng, Wei and Mu, Juncheng and Zeng, Xianfang and Chen, Xin and Pang, Anqi and Zhang, Chi and Wang, Zhibin and Fu, Bin and Yu, Gang and Liu, Ziwei and others},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={585--594},
+  year={2025}
 }
 ```
 
