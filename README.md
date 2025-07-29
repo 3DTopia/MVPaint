@@ -41,12 +41,16 @@
 ## Installation
 
 ``` bash
-sh env_mvdream.sh  ### environment for preprocessing, stage_1_low_res and final visualization
-sh env_syncmvd.sh  ### environment for stage_1_high_res and stage_2_3
+### environment for preprocessing, stage_1_low_res and final visualization
+sh env_mvdream.sh 
+
+### environment for stage_1_high_res and stage_2_3
+sh env_syncmvd.sh 
 ```
 
 ## Demo
 The script needs to download multiple pretrained models from **Hugging Face**, which may take time to complete during the first run.
+
 We provide a sample mesh under the `./samples` folder. You can use it to quickly test the script and verify its functionality.
 
 ``` bash
