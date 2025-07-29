@@ -1,0 +1,11 @@
+mesh: ""
+mesh_config_relative: True    # mesh is placed relative to the config file
+use_mesh_name: False
+prompt: ""
+steps: 30
+cond_type: "depth"
+seed: 2
+log_interval: 10
+mesh_scale: 1
+tex_fast_preview: True
+view_fast_preview: True
