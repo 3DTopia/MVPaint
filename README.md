@@ -4,8 +4,9 @@
     <h2> <img width="30" alt="pipeline" src="assets/logo.png"><a href="https://mvpaint.github.io"><span style="color: #FF69B4;">MVP</span><span style="color: #1E90FF;">aint</span>: Synchronized Multi-View Diffusion for Painting Anything 3D</a></h2>
 
 <p align="center">
-  <a href="https://mvpaint.github.io/">Project Page</a> •
+  <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_MVPaint_Synchronized_Multi-View_Diffusion_for_Painting_Anything_3D_CVPR_2025_paper.pdf">Paper</a> •
   <a href="https://arxiv.org/abs/2411.02336">Arxiv</a> •
+  <a href="https://mvpaint.github.io/">Project Page</a> •
   <a href="#citation">Citation
 </p>
 
