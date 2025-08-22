@@ -35,7 +35,7 @@
 
 ## News
 
-- [2025/07/29] Release a preliminary version for testing; a better-organized version will be published as soon as possible in a few weeks. 
+- [2025/07/29] Release a preliminary version for testing; a better-organized version will be published as soon as possible... 
 - [2024/10/31] Upload paper and init project.
 
 
